@@ -8,6 +8,11 @@ public class Main{
 		System.out.println("Hello World!");
 		
 	}
+
+	public final static String MAIN_GIT1_STR1="Str1";
+	
+
+	public final static String MAIN_GIT1_STR2="Str1";
     public static void main(String[] args){
         int x=0;
         System.out.println("main start");

@@ -1,6 +1,11 @@
 public class Main{
+	public static void TestPrint(){
+		System.out.println("Hello World!");
+		
+	}
     public static void main(String[] args){
         int x=0;
+        System.out.println("main start");
         int[][] data = new int[x][x 	];
         StringBuilder sb = new StringBuilder();
         for(int i=100;i<1000;i++){

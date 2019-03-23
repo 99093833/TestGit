@@ -1,4 +1,13 @@
+
 public class Main{
+	public final static String MAIN_GIT2_STR1="Str1";
+	
+
+	public final static String MAIN_GIT2_STR2="Str2";
+	public static void TestPrint(){
+		System.out.println("Hello World!");
+		
+	}
 
 	public final static String MAIN_GIT1_STR1="Str1";
 	
@@ -6,6 +15,7 @@ public class Main{
 	public final static String MAIN_GIT1_STR2="Str1";
     public static void main(String[] args){
         int x=0;
+        System.out.println("main start");
         System.out.println(x);
         int[][] data = new int[x][x 	];
         //add test1

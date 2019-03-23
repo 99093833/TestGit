@@ -1,8 +1,9 @@
 public class Main{
     public static void main(String[] args){
         int x=0;
-        
+        System.out.println(x);
         int[][] data = new int[x][x 	];
+        //add test1
         StringBuilder sb = new StringBuilder();
         for(int i=100;i<1000;i++){
             int a = i%10;
